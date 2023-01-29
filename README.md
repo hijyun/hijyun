@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning AI Engineering, MLOps.
+- 🌱 I’m currently learning AI Engineering.
 
 ### Interest
-- MLOps
-- Elasticsearch
-- Cloud Computing 
+- MLOps, quantization
+- Elasticsearch, Ray
+- Cloud Computing, FinOps, Cloud Optimization
 - Education, Writing
