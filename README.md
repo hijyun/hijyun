@@ -9,7 +9,7 @@
 <br>
 <h2>😘 About me </h2>
 
-🔗 [Blog](https://newtoner.tistory.com/) 🔗 [linkedin](https://www.linkedin.com/in/ji-hyun-kim-0663731a5/) 👀 [More about me](https://cyber-chameleon-e6d.notion.site/AI-Engineer-e06b4283f74a45c992bbbc732d68cf9f)
+🔗 [Blog](https://newtoner.tistory.com/) 🔗 [linkedin](https://www.linkedin.com/in/ji-hyun-kim-0663731a5/)
 
  <div align="center">
 <h3>🛠 Tech Stack  🛠</h3>
