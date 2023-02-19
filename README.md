@@ -1,7 +1,7 @@
 ### Hi there. I'm Ji Hyun Kim. 👋
 
 - 🔭 My Interest lies in MLOps and Cloud Optimization.
-- ⚙️ I'm currently working at AI Engineering and Optimization.
+- ⚙️ I'm currently working as a Machine Learning Engineer.
 - 👩🏻‍🎓 I graduated with a bachelor's degree in Information & Statistics from DDWU.
 - ❤️ I have eagerness and energy to better my life as much as value my dream. 
 
