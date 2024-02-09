@@ -2,15 +2,15 @@
 
 Hi, I'm Jihyun Kim(Gianna)! 😊✨ 
 
-I've thrived in a fast-growing startup, experienced small and large teams, and grown with the company. Currently an AI Researcher Intern, I focus on time series forecasting and natural language processing. Passionate about turning AI concepts into real-world solutions and love learning through effective communication! ( ᐢ˙꒳​˙ᐢ )
+I thrived in a fast-growing startup, experienced small and large teams, and grown with the company as an AI Engineer. Currently as a Machine Learning Researcher Intern, I focus on time series forecasting. I am passionate about turning AI concepts into real-world solutions and love learning through effective communication! ( ᐢ˙꒳​˙ᐢ )
 
 <br>
 
 ## About Me (＾º◡º＾❁)
 
 - 🎓 Graduated from Dongduk Women's University with a bachelor's degree in Statistics and Information Science.
-- 📈 Interests in Time Series Forecasting and NLP
-- 🚀 Passionate about deploying AI models into services
+- 📈 Interests in Time Series Forecasting and NLP.
+- 🚀 Passionate about deploying AI models into services.
 
 <br>
 
