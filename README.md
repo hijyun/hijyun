@@ -1,30 +1,37 @@
-### Hi there. I'm Ji Hyun Kim. 👋
+# Hello there! 👋
+
+Hi, I'm Jihyun Kim(Gianna)! 😊✨ 
+
+I've thrived in a fast-growing startup, experienced small and large teams, and grown with the company. Currently an AI Researcher Intern, I focus on time series forecasting and natural language processing. Passionate about turning AI concepts into real-world solutions and love learning through effective communication! ( ᐢ˙꒳​˙ᐢ )
 
 <br>
-<h2>😘 About me </h2>
 
-🔗 [Blog](https://newtoner.tistory.com/) 🔗 [linkedin](https://www.linkedin.com/in/ji-hyun-kim-0663731a5/)
+## About Me (＾º◡º＾❁)
 
- <div align="center">
-<h3>🛠 Tech Stack  🛠</h3>
+- 🎓 Graduated from Dongduk Women's University with a bachelor's degree in Statistics and Information Science.
+- 📈 Interests in Time Series Forecasting and NLP
+- 🚀 Passionate about deploying AI models into services
+
+<br>
+
+## Tech Stack  /ᐠ｡ꞈ｡ᐟ\
+
+<div align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-Red?style=flat-square&logo=R&logoColor=white"/></a>
-<br/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<br/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=Kubeflow&logoColor=white"/></a>
-<br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 <br/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
-
-
-
-
  </div>
+
+ <br>
+
+## Contact Me  /ᐠ｡ꞈ｡ᐟ✿\
+
+<p align="center"><a href="https://newtoner.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://newtoner.tistory.com/"/></a>  
+  <a href="https://www.linkedin.com/in/hijyun/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-hijyun-pink?style=flat-square&logo=linkedin" alt="LinkedIn"> <a href="mailto:wilkil526@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilkil526@gmail.com"/></a> 
+</a> </p>
+
+
+
+
