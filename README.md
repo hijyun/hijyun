@@ -9,7 +9,7 @@ I thrived in a fast-growing startup, experienced small and large teams, and grow
 ##  ੈ✩‧₊˚ About Me  ⋆.ೃ࿔*:･
 
 - 🎓 Graduated from Dongduk Women's University with a bachelor's degree in Statistics and Information Science.
-- 📈 Interests in Time Series Forecasting and NLP.
+- 📈 Interests in Time Series Forecasting.
 - 🚀 Passionate about deploying AI models into services.
 
 <br>
