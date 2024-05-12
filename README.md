@@ -2,7 +2,7 @@
 
 Hi, I'm Jihyun Kim(Gianna)! 😊✨ 
 
-I thrived in a fast-growing startup, experienced small and large teams, and grown with the company as an AI Engineer. Currently as a Machine Learning Researcher Intern, I focus on time series forecasting. I am passionate about turning AI concepts into real-world solutions and love learning through effective communication! ( ᐢ˙꒳​˙ᐢ )
+I thrived in a fast-growing startup, experienced small and large teams, and grown with the company as an AI Engineer. Currently as a Machine Learning Researcher Intern, I focus on time series forecasting. I am passionate about turning AI concepts into real-world solutions ! 
 
 <br>
 
@@ -22,7 +22,7 @@ I thrived in a fast-growing startup, experienced small and large teams, and grow
 
 <br>
 
-## ｡.｡:∞♡* Tech Stack ♡
+## Tech Stack 
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
