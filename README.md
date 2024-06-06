@@ -2,7 +2,7 @@
 
 Hi, I'm Jihyun Kim(Gianna)! 😊✨ 
 
-I thrived in a fast-growing startup, experienced small and large teams, and grown with the company as an AI Engineer. Currently, I am working as a Data Scientist, focusing on time series forecasting and data analysis visualization dashboards. I am passionate about turning AI concepts into real-world solutions!
+I thrived in a fast-growing startup, experienced small and large teams, and grown with the company as an AI Engineer. Currently, I am working as a Data Scientist at a leading global aerospace company, focusing on time series forecasting and data analysis visualization dashboards. I am passionate about turning AI concepts into real-world solutions!
 
 <br>
 
