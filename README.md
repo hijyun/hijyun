@@ -12,7 +12,7 @@ I'm currently working as a Data Scientist at a leading global aerospace company,
 - 📈 Specializing in Time Series Forecasting and predictive analytics to drive strategic decision-making.
 - 🚀 Passionate about deploying AI models into services.
 - 🌟 Thrived in a fast-growing startup, experienced small and large teams, and grown with the company as an AI Engineer, expanding my skills in MLOps.
-- 💡 Currently focused on advancing my research in causal inference and reinforcement learning, aiming to enhance my expertise in data science methodologies.
+- 💡 Currently focused on advancing my research in **causal inference** and **reinforcement learning**, aiming to enhance my expertise in data science methodologies.
 
 <br>
 
