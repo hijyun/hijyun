@@ -1,12 +1,12 @@
 # Hello there! 👋  
 
-Hi, I'm Jihyun Kim(Gianna)! 😊✨ 
+Hi, I'm Jihyun Kim(Gianna)! ⋆.ೃ࿔*:･
 
 I'm currently working as a Data Scientist at a leading global aerospace company, focusing on time series forecasting and data analysis visualization dashboards. I am passionate about turning AI concepts into real-world solutions!
 
 <br>
 
-##  ੈ✩‧₊˚ About Me  ⋆.ೃ࿔*:･
+## About Me  
 
 - 🎓 Graduated from Dongduk Women's University with a bachelor's degree in Statistics and Information Science.
 - 📈 Specializing in **Time Series Forecasting** and predictive analytics to drive strategic decision-making.
